@@ -1,3 +1,6 @@
+# Spend-Less
+Dashboard for pulling my data from BofA using Plaid for review and analysis
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
